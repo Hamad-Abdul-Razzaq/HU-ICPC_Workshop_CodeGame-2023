@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1686115649 "e:/Habib University/Brain Hack 23-24/HU-ICPC_Workshop_CodeGame-2023/src/event_details.tex" "event_details.pdf" "event_details" 1686115651
+["pdflatex"] 1686119990 "e:/Habib University/Brain Hack 23-24/HU-ICPC_Workshop_CodeGame-2023/src/event_details.tex" "event_details.pdf" "event_details" 1686119993
   "C:/Users/Hamad Abdul Razzaq/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684104916 97883 54234781af2d04fd4aa3cf5a5ab537ac ""
   "C:/Users/Hamad Abdul Razzaq/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1642841906 14064 06bdce2eb8b432a5d39a4192f0ccbf4e ""
   "C:/Users/Hamad Abdul Razzaq/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1642841507 9776165 3a18b6cfa596619996211424770162fb ""
@@ -84,9 +84,9 @@
   "D:/Users/Hamad Abdul Razzaq/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "D:/Users/Hamad Abdul Razzaq/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "D:/Users/Hamad Abdul Razzaq/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "e:/Habib University/Brain Hack 23-24/HU-ICPC_Workshop_CodeGame-2023/src/event_details.tex" 1686115524 3975 f13732d795c8d807f458ac5e91ba7226 ""
-  "event_details.aux" 1686115650 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
-  "event_details.out" 1686115650 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "e:/Habib University/Brain Hack 23-24/HU-ICPC_Workshop_CodeGame-2023/src/event_details.tex" 1686119980 5185 1f41022b8ff81f4ec1c32378b5b319d5 ""
+  "event_details.aux" 1686119992 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
+  "event_details.out" 1686119992 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "event_details.aux"
   "event_details.log"
